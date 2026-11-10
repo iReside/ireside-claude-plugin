@@ -1,0 +1,15 @@
+{
+  "name": "ireside",
+  "description": "iReside's residency and visa day-rule tools for Claude.",
+  "owner": {
+    "name": "iReside",
+    "email": "support@ireside.ai"
+  },
+  "plugins": [
+    {
+      "name": "ireside-residency",
+      "source": "./",
+      "description": "Residency and visa day rules with the math and the sources, plus how to keep the count: Schengen 90/180 calculator, visa stay limits, the 183-day rule by US state and country, the US Substantial Presence Test, the UK Statutory Residence Test, FEIE 330 days, Canada PR and US naturalization presence, residency audits, and how to track your days."
+    }
+  ]
+}

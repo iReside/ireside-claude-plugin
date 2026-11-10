@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ireside": {
+      "type": "http",
+      "url": "https://www.ireside.ai/api/mcp"
+    }
+  }
+}

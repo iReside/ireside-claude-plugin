@@ -1,0 +1,28 @@
+{
+  "name": "ireside-residency",
+  "displayName": "iReside Residency & Visa Day Tracker",
+  "description": "Residency and visa day rules with the math and the sources, plus how to keep the count: Schengen 90/180 calculator, visa stay limits, the 183-day rule by US state and country, the US Substantial Presence Test, the UK Statutory Residence Test, FEIE 330 days, Canada PR and US naturalization presence, residency audits, and how to track your days.",
+  "version": "1.1.0",
+  "author": {
+    "name": "iReside",
+    "url": "https://www.ireside.ai"
+  },
+  "homepage": "https://www.ireside.ai/claude",
+  "license": "MIT",
+  "keywords": [
+    "tax residency",
+    "tax residency tracker",
+    "183 day rule",
+    "day counter",
+    "state residency",
+    "schengen",
+    "schengen calculator",
+    "visa tracker",
+    "digital nomad",
+    "snowbird",
+    "substantial presence test",
+    "residency audit"
+  ],
+  "privacyPolicyUrl": "https://www.ireside.ai/privacy-policy",
+  "icon": "./.claude-plugin/icon.png"
+}
