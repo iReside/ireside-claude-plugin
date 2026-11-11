@@ -24,5 +24,6 @@
     "residency audit"
   ],
   "privacyPolicyUrl": "https://www.ireside.ai/privacy-policy",
-  "icon": "./.claude-plugin/icon.png"
+  "icon": "./.claude-plugin/icon.png",
+  "repository": "https://github.com/iReside/ireside-claude-plugin"
 }
