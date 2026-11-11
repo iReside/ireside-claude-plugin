@@ -1,4 +1,4 @@
-# iReside Residency & Visa Day Rules for Claude
+# iReside for Claude
 
 This plugin connects Claude to iReside's public day-count tools and teaches Claude which one answers which question.
 Ask how many Schengen days you have left, whether a planned trip would overstay, how many days you can spend in New York
